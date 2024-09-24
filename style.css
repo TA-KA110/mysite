@@ -1,0 +1,30 @@
+body{
+    background-color: #CCC;
+}
+h1{
+    text-align: center;
+}
+.main{
+    display: flex;
+}
+.main_content{
+    margin-left: 20px;
+    margin-right: 5px;
+    background-color: #FFF;
+}
+.right_bar{
+    width: 400px;
+    background-color: #FFF;
+    text-align: center;
+}
+.right_bar a{
+    display: block;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    background-color: #DDD;
+}
+s {
+    color: #CCC;
+}
